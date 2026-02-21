@@ -1,0 +1,14 @@
+C:\c#\cajeroLogico\bin\Debug\net8.0\cajeroLogico.exe
+C:\c#\cajeroLogico\bin\Debug\net8.0\cajeroLogico.deps.json
+C:\c#\cajeroLogico\bin\Debug\net8.0\cajeroLogico.runtimeconfig.json
+C:\c#\cajeroLogico\bin\Debug\net8.0\cajeroLogico.dll
+C:\c#\cajeroLogico\bin\Debug\net8.0\cajeroLogico.pdb
+C:\c#\cajeroLogico\obj\Debug\net8.0\cajeroLogico.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\cajeroLogico\obj\Debug\net8.0\cajeroLogico.AssemblyInfoInputs.cache
+C:\c#\cajeroLogico\obj\Debug\net8.0\cajeroLogico.AssemblyInfo.cs
+C:\c#\cajeroLogico\obj\Debug\net8.0\cajeroLogico.csproj.CoreCompileInputs.cache
+C:\c#\cajeroLogico\obj\Debug\net8.0\cajeroLogico.dll
+C:\c#\cajeroLogico\obj\Debug\net8.0\refint\cajeroLogico.dll
+C:\c#\cajeroLogico\obj\Debug\net8.0\cajeroLogico.pdb
+C:\c#\cajeroLogico\obj\Debug\net8.0\cajeroLogico.genruntimeconfig.cache
+C:\c#\cajeroLogico\obj\Debug\net8.0\ref\cajeroLogico.dll
